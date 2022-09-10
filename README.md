@@ -1,2 +1,5 @@
-# image-processing-
-Capture drone feed and run the code simultaneously for face detection 
+# image processing 
+Capture face from drone feed . 
+Aim -regornition and mask detection
+
+Requirement - student database 
